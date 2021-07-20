@@ -2,7 +2,7 @@
 
 [Magento 2 Order Comments Pro](https://www.ulmod.com/ordernotes-for-magento-2.html)  is a Magento 2 extension that allows your buyers to leave comments on their orders before and after checkout and receive admins' replies via email and under their account at the storefront.
 
-With Magento 2 Order Comments Pro, you can build a great communication with buyers regarding their orders. Buyers can leave a comment during the checkout, and once the order is placed, buyers can add additional comments to the order from their account in frontend and receives admins reply
+With Magento 2 Order Comments Pro, you can build a great communication with your buyers regarding their orders. Buyers can leave a comment during the checkout, and once the order is placed, buyers can add additional comments to the order from their account in frontend and receives admins reply
 
 <a href="https://www.ulmod.com/ordernotes-for-magento-2.html"><img width="205" src="https://www.ulmod.com/media/wysiwyg/um-download-now1.png"></a>
 
